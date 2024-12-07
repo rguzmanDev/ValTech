@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gPng5wmzDIk=",
+  "dgSpecHash": "LGyRMtqWWPU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Server\\BlazorEcommerce.Server.csproj",
+  "projectFilePath": "C:\\Users\\rguzm\\Documents\\New folder\\ValTech\\BlazorEcommerce\\BlazorEcommerce\\Server\\BlazorEcommerce.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rguzm\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\rguzm\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
