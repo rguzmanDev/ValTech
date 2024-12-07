@@ -1,0 +1,310 @@
+[
+  {
+    "ContainingType": "BlazorEcommerce.Server.Controllers.CategoriaController",
+    "Method": "Crear",
+    "RelativePath": "api/Categoria/Crear",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "modelo",
+        "Type": "BlazorEcommerce.Shared.CategoriaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlazorEcommerce.Server.Controllers.CategoriaController",
+    "Method": "Editar",
+    "RelativePath": "api/Categoria/Editar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "modelo",
+        "Type": "BlazorEcommerce.Shared.CategoriaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlazorEcommerce.Server.Controllers.CategoriaController",
+    "Method": "Eliminar",
+    "RelativePath": "api/Categoria/Eliminar/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlazorEcommerce.Server.Controllers.CategoriaController",
+    "Method": "Lista",
+    "RelativePath": "api/Categoria/Lista/{Valor}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Valor",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlazorEcommerce.Server.Controllers.CategoriaController",
+    "Method": "Obtener",
+    "RelativePath": "api/Categoria/Obtener/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlazorEcommerce.Server.Controllers.DashboardController",
+    "Method": "Resumen",
+    "RelativePath": "api/Dashboard/Resumen",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlazorEcommerce.Server.Controllers.PersonaController",
+    "Method": "Autorizacion",
+    "RelativePath": "api/Persona/Autorizacion",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "modelo",
+        "Type": "BlazorEcommerce.Shared.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlazorEcommerce.Server.Controllers.PersonaController",
+    "Method": "Crear",
+    "RelativePath": "api/Persona/Crear",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "modelo",
+        "Type": "BlazorEcommerce.Shared.PersonaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlazorEcommerce.Server.Controllers.PersonaController",
+    "Method": "Editar",
+    "RelativePath": "api/Persona/Editar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "modelo",
+        "Type": "BlazorEcommerce.Shared.PersonaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlazorEcommerce.Server.Controllers.PersonaController",
+    "Method": "Eliminar",
+    "RelativePath": "api/Persona/Eliminar/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlazorEcommerce.Server.Controllers.PersonaController",
+    "Method": "Lista",
+    "RelativePath": "api/Persona/Lista/{Rol}/{Valor}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Rol",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "Valor",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlazorEcommerce.Server.Controllers.PersonaController",
+    "Method": "Obtener",
+    "RelativePath": "api/Persona/Obtener/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlazorEcommerce.Server.Controllers.ProductoController",
+    "Method": "Catalogo",
+    "RelativePath": "api/Producto/Catalogo/{categoria}/{buscar}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoria",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "buscar",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlazorEcommerce.Server.Controllers.ProductoController",
+    "Method": "Crear",
+    "RelativePath": "api/Producto/Crear",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "modelo",
+        "Type": "BlazorEcommerce.Shared.ProductoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlazorEcommerce.Server.Controllers.ProductoController",
+    "Method": "Editar",
+    "RelativePath": "api/Producto/Editar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "modelo",
+        "Type": "BlazorEcommerce.Shared.ProductoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlazorEcommerce.Server.Controllers.ProductoController",
+    "Method": "Eliminar",
+    "RelativePath": "api/Producto/Eliminar/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlazorEcommerce.Server.Controllers.ProductoController",
+    "Method": "Lista",
+    "RelativePath": "api/Producto/Lista/{Valor}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Valor",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlazorEcommerce.Server.Controllers.ProductoController",
+    "Method": "Obtener",
+    "RelativePath": "api/Producto/Obtener/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlazorEcommerce.Server.Controllers.VentaController",
+    "Method": "Registrar",
+    "RelativePath": "api/Venta/Registrar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "modelo",
+        "Type": "BlazorEcommerce.Shared.VentaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

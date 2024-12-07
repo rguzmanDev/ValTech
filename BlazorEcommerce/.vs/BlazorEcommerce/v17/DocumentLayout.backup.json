@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDBB551E-B456-4AA9-A0AB-5CE56EE8F929}|BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj|c:\\users\\rguzm\\documents\\proyecto\\blazorecommerce\\blazorecommerce\\client\\wwwroot\\css\\open-iconic\\icon-license||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FDBB551E-B456-4AA9-A0AB-5CE56EE8F929}|BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj|solutionrelative:blazorecommerce\\client\\wwwroot\\css\\open-iconic\\icon-license||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDBB551E-B456-4AA9-A0AB-5CE56EE8F929}|BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj|c:\\users\\rguzm\\documents\\proyecto\\blazorecommerce\\blazorecommerce\\client\\wwwroot\\css\\open-iconic\\font-license||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FDBB551E-B456-4AA9-A0AB-5CE56EE8F929}|BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj|solutionrelative:blazorecommerce\\client\\wwwroot\\css\\open-iconic\\font-license||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDBB551E-B456-4AA9-A0AB-5CE56EE8F929}|BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj|c:\\users\\rguzm\\documents\\proyecto\\blazorecommerce\\blazorecommerce\\client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FDBB551E-B456-4AA9-A0AB-5CE56EE8F929}|BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj|solutionrelative:blazorecommerce\\client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDBB551E-B456-4AA9-A0AB-5CE56EE8F929}|BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj|c:\\users\\rguzm\\documents\\proyecto\\blazorecommerce\\blazorecommerce\\client\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FDBB551E-B456-4AA9-A0AB-5CE56EE8F929}|BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj|solutionrelative:blazorecommerce\\client\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDBB551E-B456-4AA9-A0AB-5CE56EE8F929}|BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj|c:\\users\\rguzm\\documents\\proyecto\\blazorecommerce\\blazorecommerce\\client\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDBB551E-B456-4AA9-A0AB-5CE56EE8F929}|BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj|solutionrelative:blazorecommerce\\client\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88635D89-3DF9-4C71-AF92-69EF489EDAB8}|BlazorEcommerce\\Server\\BlazorEcommerce.Server.csproj|c:\\users\\rguzm\\documents\\proyecto\\blazorecommerce\\blazorecommerce\\server\\servicios\\dashboardservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88635D89-3DF9-4C71-AF92-69EF489EDAB8}|BlazorEcommerce\\Server\\BlazorEcommerce.Server.csproj|solutionrelative:blazorecommerce\\server\\servicios\\dashboardservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDBB551E-B456-4AA9-A0AB-5CE56EE8F929}|BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj|c:\\users\\rguzm\\documents\\proyecto\\blazorecommerce\\blazorecommerce\\client\\servicios\\dashboardservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDBB551E-B456-4AA9-A0AB-5CE56EE8F929}|BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj|solutionrelative:blazorecommerce\\client\\servicios\\dashboardservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1702B153-593D-483D-9AA8-69CC905DA0F6}|BlazorEcommerce\\Shared\\BlazorEcommerce.Shared.csproj|c:\\users\\rguzm\\documents\\proyecto\\blazorecommerce\\blazorecommerce\\shared\\dashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1702B153-593D-483D-9AA8-69CC905DA0F6}|BlazorEcommerce\\Shared\\BlazorEcommerce.Shared.csproj|solutionrelative:blazorecommerce\\shared\\dashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88635D89-3DF9-4C71-AF92-69EF489EDAB8}|BlazorEcommerce\\Server\\BlazorEcommerce.Server.csproj|c:\\users\\rguzm\\documents\\proyecto\\blazorecommerce\\blazorecommerce\\server\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88635D89-3DF9-4C71-AF92-69EF489EDAB8}|BlazorEcommerce\\Server\\BlazorEcommerce.Server.csproj|solutionrelative:blazorecommerce\\server\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88635D89-3DF9-4C71-AF92-69EF489EDAB8}|BlazorEcommerce\\Server\\BlazorEcommerce.Server.csproj|c:\\users\\rguzm\\documents\\proyecto\\blazorecommerce\\blazorecommerce\\server\\servicios\\categoriaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88635D89-3DF9-4C71-AF92-69EF489EDAB8}|BlazorEcommerce\\Server\\BlazorEcommerce.Server.csproj|solutionrelative:blazorecommerce\\server\\servicios\\categoriaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDBB551E-B456-4AA9-A0AB-5CE56EE8F929}|BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj|c:\\users\\rguzm\\documents\\proyecto\\blazorecommerce\\blazorecommerce\\client\\servicios\\categoriaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDBB551E-B456-4AA9-A0AB-5CE56EE8F929}|BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj|solutionrelative:blazorecommerce\\client\\servicios\\categoriaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1702B153-593D-483D-9AA8-69CC905DA0F6}|BlazorEcommerce\\Shared\\BlazorEcommerce.Shared.csproj|c:\\users\\rguzm\\documents\\proyecto\\blazorecommerce\\blazorecommerce\\shared\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1702B153-593D-483D-9AA8-69CC905DA0F6}|BlazorEcommerce\\Shared\\BlazorEcommerce.Shared.csproj|solutionrelative:blazorecommerce\\shared\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88635D89-3DF9-4C71-AF92-69EF489EDAB8}|BlazorEcommerce\\Server\\BlazorEcommerce.Server.csproj|c:\\users\\rguzm\\documents\\proyecto\\blazorecommerce\\blazorecommerce\\server\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88635D89-3DF9-4C71-AF92-69EF489EDAB8}|BlazorEcommerce\\Server\\BlazorEcommerce.Server.csproj|solutionrelative:blazorecommerce\\server\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88635D89-3DF9-4C71-AF92-69EF489EDAB8}|BlazorEcommerce\\Server\\BlazorEcommerce.Server.csproj|c:\\users\\rguzm\\documents\\proyecto\\blazorecommerce\\blazorecommerce\\server\\modelos\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88635D89-3DF9-4C71-AF92-69EF489EDAB8}|BlazorEcommerce\\Server\\BlazorEcommerce.Server.csproj|solutionrelative:blazorecommerce\\server\\modelos\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDBB551E-B456-4AA9-A0AB-5CE56EE8F929}|BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj|c:\\users\\rguzm\\documents\\proyecto\\blazorecommerce\\blazorecommerce\\client\\servicios\\carritoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDBB551E-B456-4AA9-A0AB-5CE56EE8F929}|BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj|solutionrelative:blazorecommerce\\client\\servicios\\carritoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1702B153-593D-483D-9AA8-69CC905DA0F6}|BlazorEcommerce\\Shared\\BlazorEcommerce.Shared.csproj|c:\\users\\rguzm\\documents\\proyecto\\blazorecommerce\\blazorecommerce\\shared\\carritodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1702B153-593D-483D-9AA8-69CC905DA0F6}|BlazorEcommerce\\Shared\\BlazorEcommerce.Shared.csproj|solutionrelative:blazorecommerce\\shared\\carritodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88635D89-3DF9-4C71-AF92-69EF489EDAB8}|BlazorEcommerce\\Server\\BlazorEcommerce.Server.csproj|c:\\users\\rguzm\\documents\\proyecto\\blazorecommerce\\blazorecommerce\\server\\blazorecommerce.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{88635D89-3DF9-4C71-AF92-69EF489EDAB8}|BlazorEcommerce\\Server\\BlazorEcommerce.Server.csproj|solutionrelative:blazorecommerce\\server\\blazorecommerce.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDBB551E-B456-4AA9-A0AB-5CE56EE8F929}|BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj|c:\\users\\rguzm\\documents\\proyecto\\blazorecommerce\\blazorecommerce\\client\\blazorecommerce.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FDBB551E-B456-4AA9-A0AB-5CE56EE8F929}|BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj|solutionrelative:blazorecommerce\\client\\blazorecommerce.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88635D89-3DF9-4C71-AF92-69EF489EDAB8}|BlazorEcommerce\\Server\\BlazorEcommerce.Server.csproj|c:\\users\\rguzm\\documents\\proyecto\\blazorecommerce\\blazorecommerce\\server\\utilidades\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88635D89-3DF9-4C71-AF92-69EF489EDAB8}|BlazorEcommerce\\Server\\BlazorEcommerce.Server.csproj|solutionrelative:blazorecommerce\\server\\utilidades\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDBB551E-B456-4AA9-A0AB-5CE56EE8F929}|BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj|c:\\users\\rguzm\\documents\\proyecto\\blazorecommerce\\blazorecommerce\\client\\extensiones\\autenticacionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDBB551E-B456-4AA9-A0AB-5CE56EE8F929}|BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj|solutionrelative:blazorecommerce\\client\\extensiones\\autenticacionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDBB551E-B456-4AA9-A0AB-5CE56EE8F929}|BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj|c:\\users\\rguzm\\documents\\proyecto\\blazorecommerce\\blazorecommerce\\client\\pages\\tienda\\cart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDBB551E-B456-4AA9-A0AB-5CE56EE8F929}|BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj|solutionrelative:blazorecommerce\\client\\pages\\tienda\\cart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICON-LICENSE",
+              "DocumentMoniker": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Client\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+              "RelativeDocumentMoniker": "BlazorEcommerce\\Client\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+              "ToolTip": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Client\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+              "RelativeToolTip": "BlazorEcommerce\\Client\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-07T22:38:09.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FONT-LICENSE",
+              "DocumentMoniker": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+              "RelativeDocumentMoniker": "BlazorEcommerce\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+              "ToolTip": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+              "RelativeToolTip": "BlazorEcommerce\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAiwEkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-07T22:38:00.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bootstrap.min.css.map",
+              "DocumentMoniker": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+              "RelativeDocumentMoniker": "BlazorEcommerce\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+              "ToolTip": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+              "RelativeToolTip": "BlazorEcommerce\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAEwAAAAADgnwQAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-07T22:37:54.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "BlazorEcommerce\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "RelativeToolTip": "BlazorEcommerce\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-07T22:37:45.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardServicio.cs",
+              "DocumentMoniker": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Server\\Servicios\\DashboardServicio.cs",
+              "RelativeDocumentMoniker": "BlazorEcommerce\\Server\\Servicios\\DashboardServicio.cs",
+              "ToolTip": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Server\\Servicios\\DashboardServicio.cs",
+              "RelativeToolTip": "BlazorEcommerce\\Server\\Servicios\\DashboardServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:36:27.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashBoardDTO.cs",
+              "DocumentMoniker": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Shared\\DashBoardDTO.cs",
+              "RelativeDocumentMoniker": "BlazorEcommerce\\Shared\\DashBoardDTO.cs",
+              "ToolTip": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Shared\\DashBoardDTO.cs",
+              "RelativeToolTip": "BlazorEcommerce\\Shared\\DashBoardDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:36:25.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Server\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "BlazorEcommerce\\Server\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Server\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "BlazorEcommerce\\Server\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:36:25.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoriaServicio.cs",
+              "DocumentMoniker": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Server\\Servicios\\CategoriaServicio.cs",
+              "RelativeDocumentMoniker": "BlazorEcommerce\\Server\\Servicios\\CategoriaServicio.cs",
+              "ToolTip": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Server\\Servicios\\CategoriaServicio.cs",
+              "RelativeToolTip": "BlazorEcommerce\\Server\\Servicios\\CategoriaServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:36:24.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoriaServicio.cs",
+              "DocumentMoniker": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Client\\Servicios\\CategoriaServicio.cs",
+              "RelativeDocumentMoniker": "BlazorEcommerce\\Client\\Servicios\\CategoriaServicio.cs",
+              "ToolTip": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Client\\Servicios\\CategoriaServicio.cs",
+              "RelativeToolTip": "BlazorEcommerce\\Client\\Servicios\\CategoriaServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:36:23.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoriaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Shared\\CategoriaDTO.cs",
+              "RelativeDocumentMoniker": "BlazorEcommerce\\Shared\\CategoriaDTO.cs",
+              "ToolTip": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Shared\\CategoriaDTO.cs",
+              "RelativeToolTip": "BlazorEcommerce\\Shared\\CategoriaDTO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:36:22.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Client\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorEcommerce\\Client\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Client\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "BlazorEcommerce\\Client\\Shared\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T22:34:04.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashboardServicio.cs",
+              "DocumentMoniker": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Client\\Servicios\\DashboardServicio.cs",
+              "RelativeDocumentMoniker": "BlazorEcommerce\\Client\\Servicios\\DashboardServicio.cs",
+              "ToolTip": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Client\\Servicios\\DashboardServicio.cs",
+              "RelativeToolTip": "BlazorEcommerce\\Client\\Servicios\\DashboardServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:36:25.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Server\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "BlazorEcommerce\\Server\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Server\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "BlazorEcommerce\\Server\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:36:20.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Server\\Modelos\\Categoria.cs",
+              "RelativeDocumentMoniker": "BlazorEcommerce\\Server\\Modelos\\Categoria.cs",
+              "ToolTip": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Server\\Modelos\\Categoria.cs",
+              "RelativeToolTip": "BlazorEcommerce\\Server\\Modelos\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:36:19.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CarritoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Client\\Servicios\\CarritoServicio.cs",
+              "RelativeDocumentMoniker": "BlazorEcommerce\\Client\\Servicios\\CarritoServicio.cs",
+              "ToolTip": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Client\\Servicios\\CarritoServicio.cs",
+              "RelativeToolTip": "BlazorEcommerce\\Client\\Servicios\\CarritoServicio.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:36:17.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CarritoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Shared\\CarritoDTO.cs",
+              "RelativeDocumentMoniker": "BlazorEcommerce\\Shared\\CarritoDTO.cs",
+              "ToolTip": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Shared\\CarritoDTO.cs",
+              "RelativeToolTip": "BlazorEcommerce\\Shared\\CarritoDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:36:16.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BlazorEcommerce.Server",
+              "DocumentMoniker": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Server\\BlazorEcommerce.Server.csproj",
+              "RelativeDocumentMoniker": "BlazorEcommerce\\Server\\BlazorEcommerce.Server.csproj",
+              "ToolTip": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Server\\BlazorEcommerce.Server.csproj",
+              "RelativeToolTip": "BlazorEcommerce\\Server\\BlazorEcommerce.Server.csproj",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-07T22:36:14.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BlazorEcommerce.Client",
+              "DocumentMoniker": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj",
+              "RelativeDocumentMoniker": "BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj",
+              "ToolTip": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj",
+              "RelativeToolTip": "BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-07T22:36:10.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Server\\Utilidades\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "BlazorEcommerce\\Server\\Utilidades\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Server\\Utilidades\\AutoMapperProfile.cs",
+              "RelativeToolTip": "BlazorEcommerce\\Server\\Utilidades\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:36:07.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AutenticacionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Client\\Extensiones\\AutenticacionExtension.cs",
+              "RelativeDocumentMoniker": "BlazorEcommerce\\Client\\Extensiones\\AutenticacionExtension.cs",
+              "ToolTip": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Client\\Extensiones\\AutenticacionExtension.cs",
+              "RelativeToolTip": "BlazorEcommerce\\Client\\Extensiones\\AutenticacionExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:36:02.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Cart.razor",
+              "DocumentMoniker": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Client\\Pages\\Tienda\\Cart.razor",
+              "RelativeDocumentMoniker": "BlazorEcommerce\\Client\\Pages\\Tienda\\Cart.razor",
+              "ToolTip": "C:\\Users\\rguzm\\Documents\\proyecto\\BlazorEcommerce\\BlazorEcommerce\\Client\\Pages\\Tienda\\Cart.razor",
+              "RelativeToolTip": "BlazorEcommerce\\Client\\Pages\\Tienda\\Cart.razor",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAIYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T22:34:47.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
